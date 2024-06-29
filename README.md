@@ -25,9 +25,6 @@ PyTorchによるディープラーニングプロジェクトを簡単に行う�
 		* [Validation data](#validation-data)
 		* [Checkpoints](#checkpoints)
     * [Tensorboard Visualization](#tensorboard-visualization)
-	* [Contribution](#contribution)
-	* [TODOs](#todos)
-	* [License](#license)
 	* [Acknowledgements](#acknowledgements)
 
 <!-- /code_chunk_output -->
