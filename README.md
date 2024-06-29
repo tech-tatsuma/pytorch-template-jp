@@ -345,4 +345,4 @@ Config files are in `.json` format:
 **Note**: 現在のステップを指定する必要はありません。`logger/visualization.py` で定義された `WriterTensorboard` クラスが現在のステップを追跡します。
 
 ## Acknowledgements
-このプロジェクトは[pytorch-template](https://github.com/victoresque/pytorch-template) のプロジェクト [victoresque](https://github.com/victoresque)に触発されています．
+このプロジェクトは[victoresque](https://github.com/victoresque)のプロジェクト[pytorch-template](https://github.com/victoresque/pytorch-template)に触発されています．
