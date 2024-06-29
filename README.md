@@ -1,5 +1,5 @@
 # PyTorch Template Project
-PyTorch deep learning project made easy.
+PyTorchによるディープラーニングプロジェクトを簡単に行うためのテンプレート。
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
